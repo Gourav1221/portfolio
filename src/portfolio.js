@@ -16,7 +16,7 @@ export const main = {
   name: "Gourab Mishra",
   doamin: "A MERN Stack Web Developer",
   resume:
-    "https://drive.google.com/file/d/1zqvkdlbB8Yzacdhyx0R_p96q4VXQTfjg/view?usp=sharing",
+    "https://drive.google.com/file/d/1-2fA0GVAXV7G_SBpCr1K77kYom4B-hdb/view?usp=sharing",
 };
 
 // AboutMe
