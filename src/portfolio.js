@@ -180,7 +180,7 @@ export const details = [
   },
   {
     id: 5,
-    title: "food App",
+    title: "Food App",
     desc: `It's a food recipe app, users can search recipes of various dishes and also see the latest recipes as well as the recipe of the day.Eva Translate is a translating tool, users can translate text from one language to another and also hear its correct pronunciation.`,
     feature: `Search recipe, Recipe of the day.`,
     tech: `Tech Stack: HTML | CSS | JavaScript .`,
